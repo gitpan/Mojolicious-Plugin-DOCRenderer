@@ -11,7 +11,7 @@ license: artistic_2
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
-name: Mojolicious-Plugin-DocRenderer
+name: Mojolicious-Plugin-DOCRenderer
 no_index:
   directory:
     - t
@@ -24,4 +24,4 @@ resources:
   homepage: https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer
   license: http://dev.perl.org/licenses/
   repository: git://github.com/viliampucik/Mojolicious-Plugin-DocRenderer.git
-version: 1.0
+version: 1.01

@@ -1,11 +1,13 @@
 Changes
-lib/Mojolicious/Plugin/DocRenderer.pm
+lib/Mojolicious/Plugin/DOCRenderer.pm
 lib/Mojolicious/templates/mojobar.html.ep
 lib/Mojolicious/templates/perldoc.html.ep
 LICENSE
 Makefile.PL
 MANIFEST			This list of files
 MANIFEST.SKIP
+Mojolicious-Plugin-DOCRenderer-1.01.tar.gz
 MYMETA.yml
+README.pod
 t/basic.t
 META.yml                                 Module meta-data (added by MakeMaker)
