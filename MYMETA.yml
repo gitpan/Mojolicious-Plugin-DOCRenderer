@@ -18,10 +18,10 @@ no_index:
     - inc
     - t
 requires:
-  Mojolicious: 1.0
+  Mojolicious: 1.80
   perl: 5.008007
 resources:
   homepage: https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer
   license: http://dev.perl.org/licenses/
   repository: git://github.com/viliampucik/Mojolicious-Plugin-DocRenderer.git
-version: 1.01
+version: 1.02

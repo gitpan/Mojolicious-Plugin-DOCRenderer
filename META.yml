@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Mojolicious-Plugin-DOCRenderer
-version:            1.01
+version:            1.02
 abstract:           Browses online documentation of your Mojolicious application
 author:
     - Viliam Pucik <viliam.pucik@gmail.com>
@@ -9,7 +9,7 @@ distribution_type:  module
 configure_requires:  {}
 build_requires:  {}
 requires:
-    Mojolicious:  1.0
+    Mojolicious:  1.80
     perl:         5.008007
 resources:
     homepage:    https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer
