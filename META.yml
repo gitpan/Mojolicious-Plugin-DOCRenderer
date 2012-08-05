@@ -1,26 +1,26 @@
---- #YAML:1.0
-name:               Mojolicious-Plugin-DOCRenderer
-version:            2.00
-abstract:           Browses online documentation of your Mojolicious application
+---
+abstract: 'Browses online documentation of your Mojolicious application'
 author:
-    - Viliam Pucik <viliam.pucik@gmail.com>
-license:            artistic_2
-distribution_type:  module
-configure_requires:  {}
-build_requires:  {}
-requires:
-    Mojolicious:  2.48
-    perl:         5.010001
-resources:
-    homepage:    https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer
-    license:     http://dev.perl.org/licenses/
-    repository:  git://github.com/viliampucik/Mojolicious-Plugin-DocRenderer.git
-no_index:
-    directory:
-        - t
-        - inc
-        - t
-generated_by:       ExtUtils::MakeMaker version 6.57_05
+  - 'Viliam Pucik <viliam.pucik@gmail.com>'
+build_requires: {}
+configure_requires: {}
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120630'
+license: artistic_2
 meta-spec:
-    url:      http://module-build.sourceforge.net/META-spec-v1.4.html
-    version:  1.4
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Mojolicious-Plugin-DOCRenderer
+no_index:
+  directory:
+    - t
+    - inc
+    - t
+requires:
+  Mojolicious: 2.48
+  perl: 5.010001
+resources:
+  homepage: https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer
+  license: http://dev.perl.org/licenses/
+  repository: git://github.com/viliampucik/Mojolicious-Plugin-DocRenderer.git
+version: 3.00
