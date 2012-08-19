@@ -1,0 +1,23 @@
+3.01    2012-08-19 00:00:00
+        - Makefile.PL cleanup.
+
+3.00    2012-08-05 00:00:00
+        - Updated based on the latest Mojolicious::Plugin::DOCRenderer from
+          Mojolicious 3.20.
+        - Added embedded templates.
+        - Removed experimental 'no_doc' option.
+
+2.00    2012-02-10 00:00:00
+        - Updated based on the latest Mojolicious::Plugin::DOCRenderer from
+          Mojolicious 2.48.
+
+1.02    2011-08-27 00:00:00
+        - Increased Mojolicious dependency to 1.80 to make tests work.
+
+1.01    2011-08-20 00:00:00
+        - Renamed to Mojolicious::Plugin::DOCRenderer.
+        - Improved documentation.
+        - Better tests.
+
+1.0     2011-08-13 00:00:00
+        - First release.
