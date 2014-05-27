@@ -33,7 +33,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Mojolicious" : "3.00"
+            "Mojolicious" : "4.99"
          }
       }
    },
@@ -50,5 +50,5 @@
          "url" : "https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer"
       }
    },
-   "version" : "3.02"
+   "version" : "4.00"
 }

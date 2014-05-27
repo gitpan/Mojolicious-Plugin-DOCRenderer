@@ -19,11 +19,11 @@ no_index:
     - inc
     - t
 requires:
-  Mojolicious: 3.00
+  Mojolicious: 4.99
   perl: 5.010001
 resources:
   bugtracker: https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer/issues
   homepage: https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer
   license: http://www.opensource.org/licenses/artistic-license-2.0
   repository: https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer
-version: 3.02
+version: 4.00
